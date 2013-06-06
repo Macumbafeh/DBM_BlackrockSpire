@@ -1,0 +1,16 @@
+## Interface: 20400
+## Title: |cff0055FFDeadly Blackrock Spire Boss Mods|r
+## Notes: Boss Mods for Blackrock Spire
+## Author: Siarkowy
+## LoadOnDemand: 1
+## RequiredDeps: DBM_API
+## X-DBM-AddOn: 1
+## X-DBM-Tab-ID: BlackrockTab
+## X-DBM-Tab-Sort: 1
+## X-DBM-Name: Blackrock Spire
+## X-DBM-Tab-Text: Blackrock Spire
+## X-DBM-Tab-Title: Blackrock Spire Boss Mods
+## X-DBM-Tab-LoadZone: Blackrock Spire
+
+#localization.en.lua
+Beast.lua
